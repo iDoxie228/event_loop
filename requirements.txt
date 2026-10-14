@@ -1,0 +1,5 @@
+asyncio
+asyncpg
+python-dotenv
+aiohttp
+sqlalchemy[asyncio]
